@@ -1,6 +1,6 @@
 # FunctionalAlgebraicMusic
 
-Swift translations of Haskell code from "The Haskell School of Music: From Signals to Symphonies" by Paul Hudak & Donya Quick (2018 Hardcover edition)
+Swift translations of Haskell code from "The Haskell School of Music: From Signals to Symphonies" by Paul Hudak & Donya Quick (2018 Hardcover edition).
 
 The progression of the code below reflects the introduction of constructs from the original text,
 beginning at chapter 2 "Simple Music", and continuing up through subchapter 9.2 "Players",
